@@ -1,0 +1,14 @@
+{
+  "name": "pickadate.js-scss",
+  "description": "The mobile-friendly, responsive, and lightweight jQuery date & time input picker",
+  "homepage": "https://github.com/stevezhu/meteor-pickadate.js-scss",
+  "author": "Steve Zhu",
+  "version": "v3.3.2.1",
+  "git": "https://github.com/stevezhu/meteor-pickadate.js-scss.git",
+  "packages": {
+    "jquery": {
+      "git": "https://github.com/nrafter/meteor-jquery.git",
+      "tag": "v2.0.31"
+    }
+  }
+}
