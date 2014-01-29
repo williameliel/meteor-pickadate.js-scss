@@ -3,7 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function(api, where) {
-	Meteor._debug("wot");
 	api.add_files([
 		'js/picker.js',
 		'js/picker.date.js',
